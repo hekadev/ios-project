@@ -286,6 +286,7 @@
 				AF2174771D33D5AE00F1C221 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
